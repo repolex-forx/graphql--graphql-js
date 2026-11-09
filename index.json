@@ -1,0 +1,11 @@
+{
+  "org": "graphql",
+  "repo": "graphql-js",
+  "versions": [
+    {
+      "commit": "56a9830a16226ef8daa6ccb1375624e1c1933df4",
+      "tag": "",
+      "parsed_at": "2026-11-09T22:20:09.252432+00:00"
+    }
+  ]
+}
