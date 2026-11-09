@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql/graphql-js/commit/56a9830a16226ef8daa6ccb1375624e1c1933df4",
       "git:hexsha": "56a9830a16226ef8daa6ccb1375624e1c1933df4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/graphql/graphql-js/commit/03df01cfd79e5f1ae280f6dae31cf7cce957a685",
